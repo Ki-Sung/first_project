@@ -1,3 +1,3 @@
 # first_project
-- Gtihub Test : make a new repository.
-  - fastcampus programing class test repository
+- Github Test: make a new repository.
+  - Fastcampus programing class test repository
